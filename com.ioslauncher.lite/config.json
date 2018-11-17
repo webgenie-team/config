@@ -2,6 +2,6 @@
     "status": 0,
     "msg": "",
     "data": {
-        "test": "http://api.iapps.top/client/"
+        "theme_server": "http://api.iapps.top/client/"
     }
 }
