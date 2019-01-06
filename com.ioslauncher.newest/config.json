@@ -2,6 +2,7 @@
     "status": 0,
     "msg": "",
     "data": {
-        "test": "http://api.iapps.top/client/"
+        "test": "http://api.iapps.top/client/",
+        "weather_key": "4c8ef793ea9dab70c217d59e43a563c0"
     }
 }
