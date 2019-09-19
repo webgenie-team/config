@@ -3,7 +3,6 @@
     "msg": "",
     "data": {
         "ignored_theme_list": "1868,3070767,3075590,108976",
-        "ignored_wallpaper_list": "299,310,376",
         "theme_server": "http://api.iapps.top/client/",
         "wallpaper_server": "http://api.u-launcher.com/client/"
     }
