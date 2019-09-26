@@ -4,6 +4,7 @@
     "data": {
         "theme_server": "http://api.iapps.top/client/",
         "wallpaper_server": "http://api.u-launcher.com/client/",
-        "ignored_theme_list": "3070767,3075590,108976"
+        "ignored_theme_list": "3070767,3075590,108976",
+        "pkg_name": "com.ioslauncher.newest"
     }
 }
