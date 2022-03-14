@@ -8,6 +8,6 @@
         "accu_weather_key": "ddab48c9c0da4fef9f171141df73a341",
         "pkg_name": "com.ioslauncher.free2",
         "theme_server": "http://api.iapps.top/client/",
-        "wallpaper_server": "http://api.iapps.top/client/"
+        "wallpaper_server": "http://api.u-launcher.com/client/"
     }
 }
