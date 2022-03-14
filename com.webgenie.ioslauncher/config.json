@@ -6,6 +6,6 @@
         "ignored_wallpaper_list": "299,310,376,22708,631,812,814,3380,13360,13336,13337,13399,13391",
         "weather_key": "8de2d8b3a93542c9a2d8b3a935a2c909",
         "theme_server": "http://api.iapps.top/client/",
-        "wallpaper_server": "http://api.iapps.top/client/"
+        "wallpaper_server": "http://api.u-launcher.com/client/"
     }
 }
