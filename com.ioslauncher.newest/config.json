@@ -7,7 +7,7 @@
         "weather_key": "8de2d8b3a93542c9a2d8b3a935a2c909",
         "accu_weather_key": "ddab48c9c0da4fef9f171141df73a341",
         "pkg_name": "com.ioslauncher.free2",
-        "theme_server": "http://api.iapps.top/client/",
+        "theme_server": "http://api.u-launcher.com/client/",
         "wallpaper_server": "http://api.u-launcher.com/client/"
     }
 }
